@@ -1,0 +1,52 @@
+nume_actiune,time_stamp
+Am adaugat angajatul Ionescu Stefan,Tue May 25 21:48:53 EEST 2021
+Am adaugat un sortiment nou de vin Chardonnay,Wed May 26 10:35:47 EEST 2021
+A fost introdusa o noua comanda avand id-ul 1763,Wed May 26 11:44:33 EEST 2021
+Am atribuit unei echipe noi task-uri:  cercuire semanat,Wed May 26 12:16:14 EEST 2021
+Astazi o noua echipa a intrat la munca: id->275 si muncitorii->  com.company.Angajat@7eda2dbb com.company.Angajat@6576fe71,Wed May 26 15:49:26 EEST 2021
+Am introdus vinul 3123 in baza de date,Thu May 27 14:58:44 EEST 2021
+Am afisat lista de vinuri in baza de date.,Thu May 27 15:03:35 EEST 2021
+Am introdus vinul 988 in baza de date,Thu May 27 15:06:30 EEST 2021
+Am afisat lista de vinuri in baza de date.,Thu May 27 15:06:30 EEST 2021
+Am sters vinul cu id-ul 3123 din baza de date.,Thu May 27 15:06:40 EEST 2021
+Am modificat id-ul vinului1000in baza de date.,Thu May 27 15:13:51 EEST 2021
+Am introdus Comanda 1324 in baza de date,Thu May 27 18:06:33 EEST 2021
+Am introdus Comanda 1244 in baza de date,Thu May 27 18:08:30 EEST 2021
+Am introdus Comanda 435 in baza de date,Thu May 27 18:09:54 EEST 2021
+Am introdus Comanda 56454 in baza de date,Thu May 27 18:11:07 EEST 2021
+Am introdus Comanda 3454 in baza de date,Thu May 27 18:12:28 EEST 2021
+Am introdus Comanda 2 in baza de date,Thu May 27 18:17:02 EEST 2021
+Am introdus Comanda 7 in baza de date,Thu May 27 18:18:22 EEST 2021
+Am introdus Comanda 432 in baza de date,Thu May 27 18:19:27 EEST 2021
+Am introdus Comanda 5431 in baza de date,Thu May 27 18:22:04 EEST 2021
+Am afisat lista de Comenzi in baza de date.,Thu May 27 18:25:42 EEST 2021
+Am sters comanda cu id-ul 432 din baza de date.,Thu May 27 18:28:05 EEST 2021
+Am sters comanda cu id-ul 1244 din baza de date.,Thu May 27 18:28:26 EEST 2021
+Am sters comanda cu id-ul 3454 din baza de date.,Thu May 27 18:28:44 EEST 2021
+Am sters comanda cu id-ul 56454 din baza de date.,Thu May 27 18:30:49 EEST 2021
+Am introdus Angajatul Dragoiu Bogdan in baza de date,Thu May 27 18:44:27 EEST 2021
+Am introdus Angajatul Bianca Alixandru in baza de date,Thu May 27 18:45:08 EEST 2021
+Am introdus Angajatul Pirvu Alexandra in baza de date,Thu May 27 18:48:39 EEST 2021
+Am afisat lista de angajati in baza de date.,Thu May 27 18:48:40 EEST 2021
+Am sters angajatul cu numele Pirvu Alexandra din baza de date.,Thu May 27 18:52:49 EEST 2021
+Am introdus Angajatul Pirvu Alexandra in baza de date,Thu May 27 18:53:24 EEST 2021
+Am modificat numele angajatului Lixandru Bianca in baza de date.,Thu May 27 19:00:28 EEST 2021
+Am introdus clientul cu id-ul  1 in baza de date,Thu May 27 19:19:10 EEST 2021
+Am introdus clientul cu id-ul  2 in baza de date,Thu May 27 19:21:32 EEST 2021
+Am introdus clientul cu id-ul  32 in baza de date,Thu May 27 19:22:28 EEST 2021
+Am afisat lista de Clienti in baza de date.,Thu May 27 19:24:14 EEST 2021
+Am sters clientul cu id-ul 1 din baza de date.,Thu May 27 19:26:15 EEST 2021
+Am sters clientul cu id-ul 2 din baza de date.,Thu May 27 19:26:27 EEST 2021
+Am modificat id-ul cleintului1032in baza de date.,Thu May 27 19:29:43 EEST 2021
+Am introdus Comanda 275 in baza de date,Thu May 27 19:35:35 EEST 2021
+Am introdus Comanda 1000 in baza de date,Thu May 27 19:36:32 EEST 2021
+Am introdus Comanda 22 in baza de date,Thu May 27 19:37:09 EEST 2021
+Am introdus Comanda 25 in baza de date,Thu May 27 19:40:26 EEST 2021
+Am introdus Comanda 29 in baza de date,Thu May 27 19:43:29 EEST 2021
+Am introdus Comanda 9999 in baza de date,Thu May 27 19:45:10 EEST 2021
+Am introdus Comanda 27 in baza de date,Thu May 27 19:45:55 EEST 2021
+Am introdus Comanda 9998 in baza de date,Thu May 27 19:47:35 EEST 2021
+Am afisat lista de vinuri in baza de date.,Thu May 27 20:11:40 EEST 2021
+Am afisat lista de vinuri in baza de date.,Thu May 27 20:15:03 EEST 2021
+Am introdus vinul 23 in baza de date,Thu May 27 20:15:44 EEST 2021
+Am afisat lista de vinuri in baza de date.,Thu May 27 20:15:52 EEST 2021

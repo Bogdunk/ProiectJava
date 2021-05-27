@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        /**Etapa 1**/
         Vin Chardonnay = new Vin(240, "Chardonnay", 17.5f, 2000);
         Chardonnay.print();
 
@@ -17,6 +18,7 @@ public class Main {
         Angajat Ionescu_Stefan = new Angajat("Ionescu Stefan", 27, "zilier");
         Angajat Mihaila_Gabriela = new Angajat("Mihaila Gabriela", 53, "sef de echipa");
 
+
         Ionescu_Stefan.arata_angajat();
         System.out.println();
         System.out.println();
@@ -29,17 +31,50 @@ public class Main {
         Task intretinere = new Task( new String[]{"cercuire", "semanat"} );
         intretinere.arata_task_parcele( Echipa_1 );
 
+        comanda com1 = new comanda(1763,"Teodorescu Cosmin","Strada Independentei nr.78", "vin Chardonnay 50L");
+
+        /**Etapa 2**/
+
+        //CSVAngajat.scrieAngajat(Ionescu_Stefan);
+        //Audit.set_action("Am adaugat angajatul " + Ionescu_Stefan.getNume() );
+
+        ///CSVVin.scrieVin(Chardonnay);
+        //Audit.set_action("Am adaugat un sortiment nou de vin " + Chardonnay.getNume() );
+
+        //CSVComanda.scrieComanda(com1);
+        //Audit.set_action("A fost introdusa o noua comanda avand id-ul " + com1.getId_comanda() );
+
+        //CSVTask.scrieTask(intretinere);
+        //Audit.set_action("Am atribuit unei echipe noi task-uri: " + intretinere.getTaskuri() );
+
+        //CSVEchipa.scrieEchipa(Echipa_1);
+        //Audit.set_action("Astazi o noua echipa a intrat la munca: id->" + Echipa_1.getId_echipa() + " si muncitorii-> " + Echipa_1.getTeam());
+        System.out.println("\n\n\n\n\n");
+
+        /**Etapa 3*/
+
+        //VinDB.AdaugaVin();
+        //VinDB.AfiseazaVinDB();
+        //VinDB.StergeVin();
+        //VinDB.updateVin();
+
+        //ComandaDB.AdaugaComanda();        /**/
+        //ComandaDB.AfiseazaComandaDB();
+        //ComandaDB.StergeComanda();
+        //ComandaDB.updateComanda();
+
+        //AngajatDB.AdaugaAngajat();
+        //AngajatDB.AfiseazaAngajatDB();
+        //AngajatDB.StergeAngajat();
+        //AngajatDB.updateAngajat();
+
+        //ClientDB.AdaugaClient();
+        //ClientDB.AfiseazaCLientDB();
+        //ClientDB.StergeClient();
+        //ClientDB.updateClient();
+
+        Meniu.getInstance().method();           ///meniu
 
     }
 }
 
-/**
- * Prin acest proiect eu gestionez o ferma viticola
- * ferma viticola are in evidenta mai multe parcele care vor fi intretinute de mai multi angajati in echipe, fiecare echipa este condusa de un sef_de_echipa care apartine de clasa angajat
- * vinul este si el gestionat prin clasa Vin care se imparte in clasele vin_rosu, vin_alb
- * voi implementa si un meniu in care vor fi prezentate sortimente( asemeni unui meniu de restaurant ) care sa ajute la selectarea unei comenzi
- * voi crea si o clasa comanda( cu posibilitatea pt cumparator de a achizitiona vin f2f sau online )
- * am creat clasa task pentru e tine in evidenta si activitatile de intretinere ale fermei
- * o sa introduc o clasa care tine cont de parcelele fermei viticole si o sa o combin cu clasa task
- *
- */

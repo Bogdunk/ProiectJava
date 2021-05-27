@@ -14,4 +14,12 @@ public class Task {
         for( int i=0; i< taskuri.length;  i++ )
             System.out.println( taskuri[i] );
     }
+
+    public String getTaskuri() {
+        String TASK = "";
+        for( int i=0; i<taskuri.length; i++ ) {
+            TASK = TASK + " " + taskuri[i];
+        }
+        return TASK;
+    }
 }

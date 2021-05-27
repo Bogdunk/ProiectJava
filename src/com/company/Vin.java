@@ -19,6 +19,35 @@ public class Vin {
                 + "% in cantitatea de " + this.cantitate + "(L) si este indexat cu id-ul " + this.id_vin + ".");
     }
 
+    public int getId_vin() {
+        return id_vin;
+    }
 
+    public String getNume() {
+        return nume;
+    }
 
+    public float getAlcoolemie() {
+        return alcoolemie;
+    }
+
+    public int getCantitate() {
+        return cantitate;
+    }
+
+    public void setNume(String nume) {
+        this.nume = nume;
+    }
+
+    public void setAlcoolemie(float alcoolemie) {
+        this.alcoolemie = alcoolemie;
+    }
+
+    public void setCantitate(int cantitate) {
+        this.cantitate = cantitate;
+    }
+
+    public void setId_vin(int id_vin) {
+        this.id_vin = id_vin;
+    }
 }

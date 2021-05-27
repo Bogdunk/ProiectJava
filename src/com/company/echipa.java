@@ -1,5 +1,4 @@
 package com.company;
-
 public class echipa {
     private int id_echipa;
     private com.company.Angajat [] team;
@@ -21,4 +20,11 @@ public class echipa {
         return id_echipa;
     }
 
+    public String getTeam() {
+        String TEAM="";
+        for(int i=0; i< team.length; i++ ) {
+            TEAM = TEAM + " " + team[i];
+        }
+        return TEAM;
+    }
 }
